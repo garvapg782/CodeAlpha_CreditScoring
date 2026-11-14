@@ -60,4 +60,4 @@ Plots, the metrics table and the trained model (`credit_model.joblib`) are saved
 - Educational project, not for real lending decisions. Credit models should also be checked for fairness (e.g., on age and gender).
 
 ## Author
-Garv Anand | [LinkedIn](www.linkedin.com/in/garv-anand-b74594213)
+Garv Anand | [LinkedIn](https://www.linkedin.com/in/garv-anand-b74594213)
