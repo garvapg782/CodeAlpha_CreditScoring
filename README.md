@@ -47,7 +47,7 @@ accuracy 0.77, high-risk precision 0.60, recall 0.72, F1 0.65, **ROC-AUC 0.807**
 
 ## Run it yourself
 ```bash
-git clone https://github.com/<your-username>/CodeAlpha_CreditScoring.git
+git clone https://github.com/garvapg782/CodeAlpha_CreditScoring.git
 cd CodeAlpha_CreditScoring
 pip install -r requirements.txt
 python credit_scoring.py
@@ -60,4 +60,4 @@ Plots, the metrics table and the trained model (`credit_model.joblib`) are saved
 - Educational project, not for real lending decisions. Credit models should also be checked for fairness (e.g., on age and gender).
 
 ## Author
-Your Name | [LinkedIn](https://linkedin.com/in/your-profile)
+Garv Anand | [LinkedIn](www.linkedin.com/in/garv-anand-b74594213)
